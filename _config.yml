@@ -1,0 +1,14 @@
+layout_spectrum: 0.23010209575295448
+typography_spectrum: 0.6559478261042386
+color:
+  brandStrength: 0.7484820103272796
+  lightness: 0.16885603335686028
+  saturation: 0.639217367162928
+  rhythmicContrast: 0.9294236123096198
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Huzzah
