@@ -1,4 +1,3 @@
-layout_spectrum: 0.23010209575295448
 typography_spectrum: 0.6559478261042386
 color:
   brandStrength: 0.7484820103272796
@@ -6,9 +5,12 @@ color:
   saturation: 0.639217367162928
   rhythmicContrast: 0.9294236123096198
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+layout_spectrum: 0.23010209575295448
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9665758-a776-4f58-a9c5-61144bff97b3.png
 name: Huzzah
