@@ -14,3 +14,7 @@ layout_spectrum: 0.23010209575295448
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9665758-a776-4f58-a9c5-61144bff97b3.png
 name: Huzzah
+navigation:
+  - name: EMAIL
+    url: bettybair@gmail.com
+    type: external
