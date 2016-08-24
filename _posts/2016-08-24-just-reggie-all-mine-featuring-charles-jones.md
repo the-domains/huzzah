@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Elixium Audible
-    url: 'https://www.youtube.com/channel/UCNP_wQh3Cx5qdp6qy2JA3aQ'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+datePublished: '2016-08-24T21:16:00.092Z'
+sourcePath: _posts/2016-08-24-just-reggie-all-mine-featuring-charles-jones.md
+inFeed: true
+isBasedOnUrl: >-
+  https://www.youtube.com/watch?list=PLAbWgUY4-4q5hEzP-m69AkdP9KJ0NtFIJ&v=QQWyjt8-dpw
 keywords:
   - duration
   - views
@@ -20,10 +15,14 @@ keywords:
   - vert
   - '824'
   - uzi
-description: >-
-  Lead Vocals by Charles Jones Video by 4n6 Design From debut album "Tritone
-  Jones" ...
-inLanguage: en
+related: []
+author:
+  - name: Elixium Audible
+    url: 'https://www.youtube.com/channel/UCNP_wQh3Cx5qdp6qy2JA3aQ'
+    avatar: {}
+via: {}
+dateModified: '2016-08-24T21:15:59.099Z'
+title: Just Reggie - All Mine (Featuring Charles Jones)
 app_links:
   - url: >-
       vnd.youtube://www.youtube.com/watch?v=QQWyjt8-dpw&list=PLAbWgUY4-4q5hEzP-m69AkdP9KJ0NtFIJ&feature=applinks
@@ -69,19 +68,18 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: >-
-  https://www.youtube.com/watch?list=PLAbWgUY4-4q5hEzP-m69AkdP9KJ0NtFIJ&v=QQWyjt8-dpw
-title: Just Reggie - All Mine (Featuring Charles Jones)
-datePublished: '2016-08-24T21:02:36.387Z'
-dateModified: '2016-08-24T21:02:29.439Z'
-via: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+description: >-
+  Lead Vocals by Charles Jones Video by 4n6 Design From debut album "Tritone
+  Jones" ...
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-24-just-reggie-all-mine-featuring-charles-jones.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLAbWgUY4-4q5hEzP-m69AkdP9KJ0NtFIJ&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQQWyjt8-dpw&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQQWyjt8-dpw%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
